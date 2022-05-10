@@ -36,7 +36,7 @@
 
 <div id="imgs">
 
-<img align="left" width="400" style="border:#66CCFF 2px solid" src="/img/luotianyi_1.jpg">
+<img align="left" width="380" style="border:#66CCFF 2px solid" src="/img/luotianyi_1.jpg">
 
 <div id="imgs_right" style="float:right">
 
@@ -44,15 +44,30 @@
 
 <br/>
 
-<table align="right">
-<tr>
-<td>Row 1, cell 1</td>
-<td>Row 1, cell 2</td>
+<table align="right" >
+<tr align="center">
+    <td><b>🎯Focus</b></td>
+    <td><b>⭐Stars</b></td>
+</tr>
+
+<tr align="center">
+    <td><a herf="https://github.com/Dlerk/StudyNotes">StudyNotes</a></td>
+    <td><img src="https://img.shields.io/github/stars/Dlerk/StudyNotes"></td>
+</tr>
+
+<tr align="center">
+    <td><a herf="https://github.com/magician-do/FormulaSynchron">FormulaSynchron</a></td>
+    <td><img src="https://img.shields.io/github/stars/magician-do/FormulaSynchron"></td>
+</tr>
+
+
+<tr align="center">
+    <td><a herf="https://github.com/Dlerk/MiraiCP-for-mahjong">MiraiCP-for-mahjong</a></td>
+    <td><img src="https://img.shields.io/github/stars/Dlerk/MiraiCP-for-mahjong"></td>
 </tr>
 </table>
 
 </div>
-
 </div>
 
 
