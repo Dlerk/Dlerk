@@ -34,13 +34,30 @@
 
 ---
 
+<div id="imgs">
+
 <img align="left" width="400" style="border:#66CCFF 2px solid" src="/img/luotianyi_1.jpg">
+
+<div id="imgs_right" style="float:right">
 
 <img  align="right" src="https://github.com/Dlerk/github-stats-for-Dlerk/blob/master/generated/overview.svg"/>
 
 <br/>
 
-<img align="right" src="https://github.com/Dlerk/github-stats-for-Dlerk/blob/master/generated/languages.svg">
+<table>
+<tr>
+<td>Row 1, cell 1</td>
+<td>Row 1, cell 2</td>
+</tr>
+</table>
+
+</div>
+
+</div>
+
+
+
+
 
 
 
