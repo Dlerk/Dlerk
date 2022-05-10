@@ -44,7 +44,7 @@
 
 <br/>
 
-<table align="right" >
+<table align="center" >
 <tr align="center">
     <td><b>🎯Focus</b></td>
     <td><b>⭐Stars</b></td>
