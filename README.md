@@ -44,7 +44,7 @@
 
 <br/>
 
-<table>
+<table align="right">
 <tr>
 <td>Row 1, cell 1</td>
 <td>Row 1, cell 2</td>
