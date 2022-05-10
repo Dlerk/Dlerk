@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Dlerk&show_icons=true&icon_color=CE1D2D&text_color=718096&hide_title=true&
-                        bg_color=66CCFF" />
+                        " />
                         
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Dlerk&show_icons=true&theme=radical">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Dlerk&show_icons=true&theme=radical&" />
 
 <img align= "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlerk&layout=compact" />
 
