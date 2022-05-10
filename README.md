@@ -25,7 +25,7 @@
 >   + 🌸 Like Animation
 >   + 🎲 TRPG Player
 >   + 💻 love Programming & Create some cool things
->   + 💖 我永远喜欢**洛天依** 💖
+>   + 💖 **我永远喜欢洛天依** 💖
 > + 📲 **Contact to me:**
 >   + *2021010929@student.cup.edu.cn*
 >   + *https://blog.csdn.net/qq_44625728?spm=1000.2115.3001.5343*
