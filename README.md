@@ -36,7 +36,7 @@
 
 <div id="imgs">
 
-<img align="left" width="390" style="border:#66CCFF 2px solid" src="/img/luotianyi_1.jpg">
+<img align="left" width="400" style="border:#66CCFF 2px solid" src="/img/luotianyi_1.jpg">
 
 <div id="imgs_right" style="float:right">
 
