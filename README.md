@@ -25,6 +25,7 @@
 >   + 🌸 Like Animation
 >   + 🎲 TRPG Player
 >   + 💻 love Programming & Create some cool things
+>   + 💖 ==我永远喜欢**洛天依**== 💖
 > + 📲 **Contact to me:**
 >   + *2021010929@student.cup.edu.cn*
 >   + *https://blog.csdn.net/qq_44625728?spm=1000.2115.3001.5343*
@@ -33,11 +34,13 @@
 
 ---
 
+<img align="left" width="400" style="border:#66CCFF 2px solid" src="/img/luotianyi_1.jpg">
+
 <img  align="right" src="https://github.com/Dlerk/github-stats-for-Dlerk/blob/master/generated/overview.svg"/>
 
 <br/>
 
-<img align="right" scr="https://github.com/Dlerk/github-stats-for-Dlerk/blob/master/generated/languages.svg">
+<img align="right" src="https://github.com/Dlerk/github-stats-for-Dlerk/blob/master/generated/languages.svg">
 
 
 
