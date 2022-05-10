@@ -10,6 +10,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fantingsheng.fantingsheng&left_color=green&right_color=red)
 
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 
 
 
