@@ -36,36 +36,19 @@
 
 <div id="imgs">
 
-<img align="left" width="390" style="border:#66CCFF 2px solid" src="/img/luotianyi_1.jpg">
+<img align="right" width="390" style="border:#66CCFF 2px solid" src="/img/luotianyi_1.jpg">
 
-<div id="imgs_right" style="float:right">
+<div id="imgs_left" style="float:left">
 
-<img  align="right" src="https://github.com/Dlerk/github-stats-for-Dlerk/blob/master/generated/overview.svg"/>
+<img  align="left" src="https://github.com/Dlerk/github-stats-for-Dlerk/blob/master/generated/overview.svg"/>
 
+|🎯Focus|⭐Stars|
+|:-:|:-:|
+|[StudyNotes](https://github.com/Dlerk/StudyNotes)|![](https://img.shields.io/github/stars/Dlerk/StudyNotes)|
+|[FormulaSynchron](https://github.com/magician-do/FormulaSynchron)|![](https://img.shields.io/github/stars/magician-do/FormulaSynchron)|
+|[MiraiCP-for-mahjong](https://github.com/Dlerk/MiraiCP-for-mahjong)|![](https://img.shields.io/github/stars/Dlerk/MiraiCP-for-mahjong)|
 <br/>
 
-<table align="center" >
-<tr align="center">
-    <td><b>🎯Focus</b></td>
-    <td><b>⭐Stars</b></td>
-</tr>
-
-<tr align="center">
-    <td><a herf="https://github.com/Dlerk/StudyNotes">StudyNotes</a></td>
-    <td><img src="https://img.shields.io/github/stars/Dlerk/StudyNotes"></td>
-</tr>
-
-<tr align="center">
-    <td><a herf="https://github.com/magician-do/FormulaSynchron">FormulaSynchron</a></td>
-    <td><img src="https://img.shields.io/github/stars/magician-do/FormulaSynchron"></td>
-</tr>
-
-
-<tr align="center">
-    <td><a herf="https://github.com/Dlerk/MiraiCP-for-mahjong">MiraiCP-for-mahjong</a></td>
-    <td><img src="https://img.shields.io/github/stars/Dlerk/MiraiCP-for-mahjong"></td>
-</tr>
-</table>
-
 </div>
+
 </div>
