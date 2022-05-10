@@ -1,6 +1,10 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Dlerk&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api&username=Dlerk&show_icons=true&hide_title=true&theme=radical" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dlerk&layout=compact)](https://github.com/Dlerk/github-readme-stats)
 
 ### Hello, Here: 👋
+
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fantingsheng.fantingsheng&left_color=green&right_color=red)
