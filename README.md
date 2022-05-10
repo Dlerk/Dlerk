@@ -2,16 +2,8 @@
 
 ### Hello, Here: 👋
 
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Dlerk.Dlerk&left_color=green&right_color=red)
-
-![](https://raw.githubusercontent.com/Dlerk/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Dlerk/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fantingsheng.fantingsheng&left_color=green&right_color=red)
 
 
 
