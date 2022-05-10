@@ -5,8 +5,12 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Dlerk&show_icons=true&icon_color=d3220f&hide_title=true&bg_color=DEG,f7fcf0,e0f3db,cdecc6,aadeb6,82ccc4" />
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlerk&layout=compact" />
+
 <div style="border-left:#009ad6 5px solid;background-color:#fafffc">
 
+
+> + 🚩 **Location:** 🇨🇳 China
 > + 🙋‍♂️ **Pronouns:** 🧑 He *&* Him
 > + 🧬 **Lauguage：**
 > ![](https://img.shields.io/badge/-Python-informational?logo=Python&logoColor=FAE05E&style=flag) ![](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=WHITE&style=flag) ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=e0861a&style=flag) ![](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=afdfe4&style=flag)
@@ -27,7 +31,15 @@
 
 </div>
 
-<!-- <img align="right" width="499" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlerk&layout=compact" /> -->
+---
+
+<img  align="right" src="https://github.com/Dlerk/github-stats-for-Dlerk/blob/master/generated/overview.svg"/>
+
+<br/>
+
+<img align="right" scr="https://github.com/Dlerk/github-stats-for-Dlerk/blob/master/generated/languages.svg">
+
+
 
 
 
