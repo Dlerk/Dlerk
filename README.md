@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Dlerk&show_icons=true&icon_color=d3220f&hide_title=true&bg_color=DEG,f7fcf0,e0f3db,cdecc6,aadeb6,82ccc4" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Dlerk&text_color=102b6a&show_icons=true&icon_color=d3220f&hide_title=true&bg_color=DEG,f7fcf0,e0f3db,cdecc6,aadeb6,82ccc4" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlerk&layout=compact" />
 
