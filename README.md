@@ -1,8 +1,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api&username=Dlerk&show_icons=true&hide_title=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dlerk&layout=compact)](https://github.com/Dlerk/github-readme-stats)
+
 
 ### Hello, Here: 👋
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dlerk&layout=compact)](https://github.com/Dlerk/github-readme-stats)
 
 https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 
