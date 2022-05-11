@@ -46,7 +46,7 @@
 |:-:|:-:|
 |[StudyNotes](https://github.com/Dlerk/StudyNotes)|![](https://img.shields.io/github/stars/Dlerk/StudyNotes)|
 |[FormulaSynchron](https://github.com/magician-do/FormulaSynchron)|![](https://img.shields.io/github/stars/magician-do/FormulaSynchron)|
-|[MiraiCP-for-mahjong](https://github.com/Dlerk/MiraiCP-for-mahjong)|![](https://img.shields.io/github/stars/Dlerk/MiraiCP-for-mahjong)|
+|[mahjong-plugin-for-Mirai](https://github.com/Dlerk/mahjong-plugin-for-Mirai)|![](https://img.shields.io/github/stars/Dlerk/mahjong-plugin-for-Mirai)|
 <br/>
 
 </div>
