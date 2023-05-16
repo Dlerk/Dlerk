@@ -1,5 +1,5 @@
 
-# Hello, Here @Dlerk 👋
+# Dlerk
 
 ---
 
@@ -23,7 +23,7 @@
 >   + 🌸 Like Animation
 >   + 🎲 TRPG Player
 >   + 💻 love Programming & Create some cool things
->   + 💖 **我永远喜欢洛天依** 💖
+>   + 💖 **永远喜欢洛天依** 💖
 > + 📲 **Contact to me:**
 >   + *dlerk02@163.com*
 
@@ -39,11 +39,6 @@
 
 <img  align="left" src="https://github.com/Dlerk/github-stats-for-Dlerk/blob/master/generated/overview.svg"/>
 
-|🎯Focus|⭐Stars|
-|:-:|:-:|
-|[StudyNotes](https://github.com/Dlerk/StudyNotes)|![](https://img.shields.io/github/stars/Dlerk/StudyNotes)|
-|[FormulaSynchron](https://github.com/magician-do/FormulaSynchron)|![](https://img.shields.io/github/stars/magician-do/FormulaSynchron)|
-|[mahjong-plugin-for-Mirai](https://github.com/Dlerk/mahjong-plugin-for-Mirai)|![](https://img.shields.io/github/stars/Dlerk/mahjong-plugin-for-Mirai)|
 <br/>
 
 </div>
