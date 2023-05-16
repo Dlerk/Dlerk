@@ -13,8 +13,8 @@
 > + 🚩 **Location:** 🇨🇳 China
 > + 🙋‍♂️ **Pronouns:** 🧑 He *&* Him
 > + 🧬 **Lauguage：**
-> ![](https://img.shields.io/badge/-Python-informational?logo=Python&logoColor=FAE05E&style=flag) ![](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=WHITE&style=flag) ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=e0861a&style=flag) ![](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=afdfe4&style=flag)
-![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=7a1723&style=flag) ![](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=293047&style=flag) ![](https://img.shields.io/badge/-Java-f6f5ec?logo=java&logoColor=aa2116&style=flag) ![](https://img.shields.io/badge/-Shell-7d5886?logo=shell&logoColor=FFD500&style=flag) 
+> ![](https://img.shields.io/badge/-Java-f6f5ec?logo=java&logoColor=aa2116&style=flag) ![](https://img.shields.io/badge/-Python-informational?logo=Python&logoColor=FAE05E&style=flag) ![](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=WHITE&style=flag) ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=e0861a&style=flag) ![](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=afdfe4&style=flag)
+![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=7a1723&style=flag) ![](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=293047&style=flag)  ![](https://img.shields.io/badge/-Shell-7d5886?logo=shell&logoColor=FFD500&style=flag) 
 > + ⌚ **Recently:**
 >   + 📝 *Studying Java & Vue*
 > + ✨ **Facts of me:**
